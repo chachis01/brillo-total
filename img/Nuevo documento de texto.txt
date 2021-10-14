@@ -1,0 +1,91 @@
+<br>
+<p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+<h1 class="menu11" align="center">
+<font face="redondilla">
+<font size="45">
+   	Micropigmentacion de Cejas	</h1>	
+</font>
+</font>
+
+		<h3 align="center">
+	<img src="img/Cejas.jpg" width="360px" height="330px" >
+</h3>
+
+<p>
+<h2 class="menu11">
+	<font face="time new roman">
+	//texto para escribir//
+	</h2></font>
+
+
+<h1 class="menu11">
+<img src="img/Pestañas pelo.jpg" width="410px" height="390px" hspace="75px" align="left" vspace="55px">
+</h1>
+<h1 class="menu11">
+<font face="redondilla">
+<font size="45">
+	<p>
+Extension de Pestañas	
+   </h1>	
+</font>
+</font>
+<p>
+	
+<h2 class="menu11">
+	<font face="time new roman">
+	//texto para escribir//
+	</font></h2>
+<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h1 class="menu11">
+		<h1 class="menu11">
+	<h1 class="menu11">
+<img src="img/Pestañas pelo.jpg" width="410px" height="390px" hspace="75px" vspace="25px" align="right">
+<h1 align="right">
+	<font face="Vivaldi">
+		<font size="45">
+Extension de Pestañas
+</font>
+</font>
+</h1>
+</h1>
+<p>
+<h2 class="menu11">
+		<font face="time new roman">
+	//texto para escribir//
+	</font></h2>

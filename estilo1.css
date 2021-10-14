@@ -1,0 +1,60 @@
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+.menu1{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu1 li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu1 li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu1 li a:hover{
+	background: #ef8354;
+}
+
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+.menu11{
+	list-style: none;
+	padding: 0;
+	background: #e8e8e8;
+	width: 90%;
+	max-width: 1	000px;
+	margin: auto;
+}
+
+.menu11 li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu11 li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu11 li a:hover{
+	background: #ef8354;
+}
+
